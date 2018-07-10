@@ -1,0 +1,11 @@
+Chainer commit info:
+commit f15921bbecc4cbb0fefb70f8a0c5a7c5d72248a5
+Merge: c17a5d5 847ff4a
+Author: Hiroyuki Vincent Yamazaki <hiroyuki.vincent.yamazaki@gmail.com>
+Date:   Mon Jul 9 17:51:41 2018 +0900
+
+    Merge pull request #5030 from kmaehashi/doc-variables
+	    
+	    Improve Variable guide 
+
+iDeep4py version: 1.0.4
